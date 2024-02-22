@@ -1,6 +1,6 @@
 My\_CV
 
-![](.\data\Photo_1.jpg)
+![](https://github.com/uuNick/WEB/blob/Markdown/data/Photo_1.jpg)
 
 # Nikita Sidarenko
 
