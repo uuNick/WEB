@@ -45,3 +45,14 @@ I'm a second year student of the Belarusian-Russian University on the specializa
 *   Tic-Tac-Toe
 *   Text editor
 *   CV
+
+  
+**Contacts**
+
+Location: Belarus, Mogilev
+
+Email: nikita935rabota@gmail.com
+
+Telegram: @Nikita\_935
+
+VK: [Никита Сидаренко](https://vk.com/idns935)
