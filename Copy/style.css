@@ -369,3 +369,155 @@ div.inline_block {
     line-height: normal;
 }
 
+#footer {
+    background-color: #F2F8FC;
+    max-width: 1593px;
+    margin: auto;
+}
+
+#div_first_footer_line {
+    display: flex;
+    flex-direction: row;
+    gap: 190px;
+    padding-top: 90px;
+}
+
+#style_logo {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+#style_logo_discript {
+    max-width: 430px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#email_text {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 11px;
+}
+
+label {
+    position: relative;
+}
+
+input[type="text"] {
+    border: none;
+    width: 532px;
+    height: 45px;
+    text-indent: 24px;
+}
+
+input[type="text"]::placeholder {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#join_button {
+    position: absolute;
+    top: 1px;
+    right: 17px;
+    background: #FFF;
+    border: none;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: pointer;
+}
+
+#join_button:hover {
+    background-color: #F2F8FC;
+}
+
+#div_second_footer_line {
+    display: flex;
+    flex-direction: row;
+    gap: 190px;
+    padding-top: 15px;
+}
+
+#div_info {
+    width: 400px;
+}
+
+#address {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 23px;
+}
+
+
+#refgmail {
+    color: #22262A;
+    text-decoration: none;
+    border-bottom: 1px solid black;
+    height: 20px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#phone {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#shop_help_about {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 88px;
+    margin-left: 12px;
+}
+
+p.bold_shop_help_about_text {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+p.footer_text {
+    padding-top: 8px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
