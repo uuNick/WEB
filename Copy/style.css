@@ -1,0 +1,147 @@
+.container {
+    max-width: 1133px;
+    margin: 0 auto;
+}
+
+.div_1_header {
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 146px;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+a.menu_ref {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+section.header_2 {
+    margin: auto;
+    background-image: url(./data/_112.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1593px;
+    height: 745px;
+}
+
+#collusion {
+    margin: auto;
+    width: 1133px;
+    height: 745px;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(2, 50%);
+    column-gap: 113px;
+    row-gap: 40px;
+}
+
+#item_4 {
+    grid-column: 2;
+    grid-row: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+#new_trend {
+    height: 19px;
+    margin-top: 16px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#collusion_text {
+    height: 100px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 81px;
+    font-weight: 700;
+    font-weight: bold;
+
+}
+
+#text_under_collusion {
+    margin-top: 11px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#button_discover {
+    margin-top: 27px;
+    margin-right: 32px;
+    width: 147px;
+    height: 35px;
+    background-color: #22262A;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#button_shop_now {
+    width: 147px;
+    height: 35px;
+    background-color: #22262A;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p.logo {
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    justify-content: center;
+}
+
+div.logo {
+    display: flex;
+    align-items: center;
+}
+
+div.menu {
+    display: flex;
+    align-items: center;
+}
+
+
+div.icons {
+    display: flex;
+    align-items: center;
+}
+
+div.category {
+    display: flex;
+    gap: 23px;
+    justify-content: center;
+    margin-top: 123px;
+}
