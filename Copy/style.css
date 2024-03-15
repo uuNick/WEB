@@ -145,3 +145,110 @@ div.category {
     justify-content: center;
     margin-top: 123px;
 }
+
+
+div.first_photos {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+div.under_photo {
+    display: flex;
+    gap: 25px;
+}
+
+#photo_5 {
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    bottom: 31px;
+    left: 32px;
+    width: 198px;
+    background-color: #FFF;
+    padding: 4px;
+    color: #22262A;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+p.fashion_text_1 {
+    color: #22262A;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p.fashion_text_2 {
+    color: #22262A;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+div.text_section_block {
+    margin-top: 105px;
+}
+
+div.womens_section_photos {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    gap: 22px;
+}
+
+p.text_igure {
+    margin-top: 37px;
+    margin-bottom: 5px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+p.discription {
+    margin-top: 5px;
+    margin-bottom: 1px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+span.typography {
+    margin-left: 3px;
+    margin-top: 4px;
+    color: #22262A;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+span.new_price {
+    margin-left: 30px;
+    color: #CF2929;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
